@@ -1,12 +1,12 @@
-# JWEBPART10
+# JWEB10.0
 =============
 
-JWEBPART10 is a Advanced Business Programming Language which is  the  MOST powerful External advanced business and it  is invented by wilmix jemin j
+JWEB10.0 is a Advanced Business Programming Language which is  the  MOST powerful External advanced business and it  is invented 
 
-at  year  2017.
+by wilmix jemin j at  year  2017.
 
 
-JWEBPART10(JDollar-JWEBPART10) is a Most External Advanced Business Programming Language invented  in JWEB(JDOLLAR) P.L...
+JWEB10.0 (JDollar-JWEBPART10) is a Most External Advanced Business Programming Language invented  in JWEB(JDOLLAR) P.L...
 
 So it is ranked as Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
@@ -19,7 +19,7 @@ JWEBPART10 is the a Most Powerful External Advanced Business Programming Languag
 in JWEB(JDOLLAR) Programming Language by wilmix jemin j.
 
 
-JWEBPART10
+JWEB10.0
 ============
 
-JWEBPART10 Techniques is  applied  to   all  JDollar modules; So  that EMC  value increases.
+JWEB10.0  Techniques is  applied  to   all  JDollar modules; So  that EMC  value increases.
